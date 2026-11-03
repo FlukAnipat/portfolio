@@ -1,0 +1,16 @@
+
+:root {
+  --bg: #090b10;
+  --card: #11151c;
+  --accent: #c5ff5f;
+
+  --text: #f4f5f7;
+  --muted: #9297a4;
+
+  --border: #252a33;
+
+  --font-main: "Manrope", "Noto Sans Thai", sans-serif;
+  --font-mono: "DM Mono", monospace;
+
+  --container: 1240px;
+}
